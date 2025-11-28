@@ -1,4 +1,4 @@
-# CS50P Repository
+# CS50 Repository
 
 ## Overview
 - Collection of problem sets, exercises, and projects from CS50P
